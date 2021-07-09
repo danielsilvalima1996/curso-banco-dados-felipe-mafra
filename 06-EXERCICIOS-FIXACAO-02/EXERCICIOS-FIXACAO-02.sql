@@ -1033,6 +1033,7 @@ OR
 -- TRAGA OS FUNCIONARIOS DO SEXO MASCULINO
 -- OU OS FUNCIONARIOS QUE TRABALHEM NO JARDIM
 
-SELECT nome, departamento, sexo FROM funcionarios
+SELECT nome, departamento, sexo 
+FROM funcionarios
 WHERE sexo = 'Masculino'
 OR departamento = 'Jardim';
