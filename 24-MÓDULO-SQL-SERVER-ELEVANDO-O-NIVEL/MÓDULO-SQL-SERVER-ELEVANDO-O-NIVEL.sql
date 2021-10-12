@@ -1,0 +1,40 @@
+/* ASSUNTO - DELIMITADOR 
+ ;
+ */
+
+CREATE DATABASE aula_sql;
+
+CREATE DATABASE aula_sql02;
+
+USE aula_sql;
+
+CREATE TABLE teste(
+	nome varchar(30)
+);
+
+CREATE DATABASE BANCO01
+
+USE BANCO01
+
+CREATE TABLE teste(
+	nome varchar(30)
+);
+
+CREATE DATABASE BANCO03
+
+USE BANCO03;
+
+CREATE TABLE teste(
+	nome varchar(30)
+);
+
+CREATE DATABASE BANCO04
+GO
+
+USE BANCO04
+GO
+
+CREATE TABLE teste(
+	nome varchar(30)
+);
+GO
